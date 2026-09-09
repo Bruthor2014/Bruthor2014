@@ -3,7 +3,7 @@
 Computer Engineering student (3rd year) at Universidade de Leiria e Oeste, based in Leiria. Completed an Erasmus+ exchange at TVZ — Zagreb University of Applied Sciences (Croatia) in 2025/2026. Focused on backend development, looking for a first professional opportunity in IT.
 
 ## Currently Working On
-- Gym Workout Management App — multi-user workout management application for gyms, built with Node.js, Express, PostgreSQL and React. [link once published]
+- Workout Tracker — multi-user workout management application for gyms, built with Node.js, Express, PostgreSQL and React. [link once published]
 
 ## Learning / Improving
 - Node.js and Express on the backend
