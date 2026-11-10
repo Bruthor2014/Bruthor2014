@@ -11,7 +11,7 @@ Computer Engineering student (3rd year) at Universidade de Leiria e Oeste, based
 - Project structure and software development best practices
 
 ## Technology Stack
-- **Languages**: C, C++, JavaScript, PHP, Python, C#
+- **Languages**: JavaScript, TypeScript, PHP, SQL, Python, C, C++, C#
 - **Backend**: Node.js, Express
 - **Database**: PostgreSQL
 - **Frontend**: HTML, CSS, React
